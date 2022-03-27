@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://2022rowdyhacks.com/sitemap.xml
